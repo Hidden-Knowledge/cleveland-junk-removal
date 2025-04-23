@@ -1,0 +1,5 @@
+baseURL = "https://hidden-knowledge.github.io/cleveland-junk-removal/"
+languageCode = "en-us"
+title = "Cleveland Junk Removal"
+theme = "ananke"
+canonifyURLs = true
