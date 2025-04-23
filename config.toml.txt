@@ -3,3 +3,4 @@ languageCode = "en-us"
 title = "Cleveland Junk Removal"
 theme = "ananke"
 canonifyURLs = true
+relativeURLs = true
